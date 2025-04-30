@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "mmTLHNAhhvF8yLvSnWJwbwFakNtlvtsTJ8t2ueP0s8U=",
+  "Hash": "iRgb+ohjufDG8/6jrRnfm4WJ1ZejC1fd1aTPtDLD2LI=",
   "Source": "CVGenerateUI",
   "BasePath": "_content/CVGenerateUI",
   "Mode": "Default",
@@ -31,8 +31,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ApplicationBundle",
-      "Fingerprint": "tejxltiwbm",
-      "Integrity": "ezafBqpz/IeDGMyLIds/gT2iueCqrjNPW+en8HjK7/0=",
+      "Fingerprint": "mpnz2lma8d",
+      "Integrity": "yvjRhJOvWxE0YPlQXKFW+7z0H+oyH7YlVv+ePlfumiQ=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\zeyne\\OneDrive\\Belgeler\\GitHub\\CVGenerate\\CVGenerateUI\\obj\\Debug\\net8.0\\scopedcss\\bundle\\CVGenerateUI.styles.css"
@@ -52,11 +52,32 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ProjectBundle",
-      "Fingerprint": "tejxltiwbm",
-      "Integrity": "ezafBqpz/IeDGMyLIds/gT2iueCqrjNPW+en8HjK7/0=",
+      "Fingerprint": "mpnz2lma8d",
+      "Integrity": "yvjRhJOvWxE0YPlQXKFW+7z0H+oyH7YlVv+ePlfumiQ=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\zeyne\\OneDrive\\Belgeler\\GitHub\\CVGenerate\\CVGenerateUI\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\CVGenerateUI.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\zeyne\\OneDrive\\Belgeler\\GitHub\\CVGenerate\\CVGenerateUI\\wwwroot\\css\\login.css",
+      "SourceId": "CVGenerateUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\zeyne\\OneDrive\\Belgeler\\GitHub\\CVGenerate\\CVGenerateUI\\wwwroot\\",
+      "BasePath": "_content/CVGenerateUI",
+      "RelativePath": "css/login#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "g9pjo09qmf",
+      "Integrity": "pC4Ba0ygKcVwi0Myj8CzWEjmSDYMeAFkco9QqffgnjY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\login.css"
     },
     {
       "Identity": "C:\\Users\\zeyne\\OneDrive\\Belgeler\\GitHub\\CVGenerate\\CVGenerateUI\\wwwroot\\css\\site.css",
@@ -73,11 +94,32 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "c2tiyv64ts",
-      "Integrity": "pAGv4ietcJNk/EwsQZ5BN9+K4MuNYS2a9wl4Jw+q9D0=",
+      "Fingerprint": "2uu5xxzx75",
+      "Integrity": "WoABhWC/OK8CTUgFEJmQ6hUfzsk9uevJUVGUJ+QbvRM=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
+    },
+    {
+      "Identity": "C:\\Users\\zeyne\\OneDrive\\Belgeler\\GitHub\\CVGenerate\\CVGenerateUI\\wwwroot\\css\\StyleSheet.css",
+      "SourceId": "CVGenerateUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\zeyne\\OneDrive\\Belgeler\\GitHub\\CVGenerate\\CVGenerateUI\\wwwroot\\",
+      "BasePath": "_content/CVGenerateUI",
+      "RelativePath": "css/StyleSheet#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "dyjx89twm7",
+      "Integrity": "u4DszuiY1WLPnENub5+KbAlwyJCcCHdKlyaXaKLaRqk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\StyleSheet.css"
     },
     {
       "Identity": "C:\\Users\\zeyne\\OneDrive\\Belgeler\\GitHub\\CVGenerate\\CVGenerateUI\\wwwroot\\favicon.ico",
@@ -1321,8 +1363,8 @@
   ],
   "Endpoints": [
     {
-      "Route": "css/site.c2tiyv64ts.css",
-      "AssetFile": "C:\\Users\\zeyne\\OneDrive\\Belgeler\\GitHub\\CVGenerate\\CVGenerateUI\\wwwroot\\css\\site.css",
+      "Route": "css/login.css",
+      "AssetFile": "C:\\Users\\zeyne\\OneDrive\\Belgeler\\GitHub\\CVGenerate\\CVGenerateUI\\wwwroot\\css\\login.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1331,7 +1373,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "362"
+          "Value": "445"
         },
         {
           "Name": "Content-Type",
@@ -1339,11 +1381,48 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"pAGv4ietcJNk/EwsQZ5BN9+K4MuNYS2a9wl4Jw+q9D0=\""
+          "Value": "\"pC4Ba0ygKcVwi0Myj8CzWEjmSDYMeAFkco9QqffgnjY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 30 Apr 2025 10:27:48 GMT"
+          "Value": "Wed, 30 Apr 2025 13:01:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-pC4Ba0ygKcVwi0Myj8CzWEjmSDYMeAFkco9QqffgnjY="
+        }
+      ]
+    },
+    {
+      "Route": "css/login.g9pjo09qmf.css",
+      "AssetFile": "C:\\Users\\zeyne\\OneDrive\\Belgeler\\GitHub\\CVGenerate\\CVGenerateUI\\wwwroot\\css\\login.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "445"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pC4Ba0ygKcVwi0Myj8CzWEjmSDYMeAFkco9QqffgnjY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 13:01:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1353,7 +1432,52 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "c2tiyv64ts"
+          "Value": "g9pjo09qmf"
+        },
+        {
+          "Name": "label",
+          "Value": "css/login.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-pC4Ba0ygKcVwi0Myj8CzWEjmSDYMeAFkco9QqffgnjY="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.2uu5xxzx75.css",
+      "AssetFile": "C:\\Users\\zeyne\\OneDrive\\Belgeler\\GitHub\\CVGenerate\\CVGenerateUI\\wwwroot\\css\\site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1578"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WoABhWC/OK8CTUgFEJmQ6hUfzsk9uevJUVGUJ+QbvRM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 12:09:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2uu5xxzx75"
         },
         {
           "Name": "label",
@@ -1361,7 +1485,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-pAGv4ietcJNk/EwsQZ5BN9+K4MuNYS2a9wl4Jw+q9D0="
+          "Value": "sha256-WoABhWC/OK8CTUgFEJmQ6hUfzsk9uevJUVGUJ+QbvRM="
         }
       ]
     },
@@ -1376,7 +1500,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "362"
+          "Value": "1578"
         },
         {
           "Name": "Content-Type",
@@ -1384,11 +1508,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"pAGv4ietcJNk/EwsQZ5BN9+K4MuNYS2a9wl4Jw+q9D0=\""
+          "Value": "\"WoABhWC/OK8CTUgFEJmQ6hUfzsk9uevJUVGUJ+QbvRM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 30 Apr 2025 10:27:48 GMT"
+          "Value": "Wed, 30 Apr 2025 12:09:17 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1398,7 +1522,89 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-pAGv4ietcJNk/EwsQZ5BN9+K4MuNYS2a9wl4Jw+q9D0="
+          "Value": "sha256-WoABhWC/OK8CTUgFEJmQ6hUfzsk9uevJUVGUJ+QbvRM="
+        }
+      ]
+    },
+    {
+      "Route": "css/StyleSheet.css",
+      "AssetFile": "C:\\Users\\zeyne\\OneDrive\\Belgeler\\GitHub\\CVGenerate\\CVGenerateUI\\wwwroot\\css\\StyleSheet.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "14"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"u4DszuiY1WLPnENub5+KbAlwyJCcCHdKlyaXaKLaRqk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 12:28:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-u4DszuiY1WLPnENub5+KbAlwyJCcCHdKlyaXaKLaRqk="
+        }
+      ]
+    },
+    {
+      "Route": "css/StyleSheet.dyjx89twm7.css",
+      "AssetFile": "C:\\Users\\zeyne\\OneDrive\\Belgeler\\GitHub\\CVGenerate\\CVGenerateUI\\wwwroot\\css\\StyleSheet.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "14"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"u4DszuiY1WLPnENub5+KbAlwyJCcCHdKlyaXaKLaRqk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 12:28:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dyjx89twm7"
+        },
+        {
+          "Name": "label",
+          "Value": "css/StyleSheet.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-u4DszuiY1WLPnENub5+KbAlwyJCcCHdKlyaXaKLaRqk="
         }
       ]
     },
@@ -1413,7 +1619,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1134"
+          "Value": "1130"
         },
         {
           "Name": "Content-Type",
@@ -1421,11 +1627,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"ezafBqpz/IeDGMyLIds/gT2iueCqrjNPW+en8HjK7/0=\""
+          "Value": "\"yvjRhJOvWxE0YPlQXKFW+7z0H+oyH7YlVv+ePlfumiQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 30 Apr 2025 10:26:16 GMT"
+          "Value": "Wed, 30 Apr 2025 12:16:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1435,7 +1641,97 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-ezafBqpz/IeDGMyLIds/gT2iueCqrjNPW+en8HjK7/0="
+          "Value": "sha256-yvjRhJOvWxE0YPlQXKFW+7z0H+oyH7YlVv+ePlfumiQ="
+        }
+      ]
+    },
+    {
+      "Route": "CVGenerateUI.mpnz2lma8d.bundle.scp.css",
+      "AssetFile": "C:\\Users\\zeyne\\OneDrive\\Belgeler\\GitHub\\CVGenerate\\CVGenerateUI\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\CVGenerateUI.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1130"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yvjRhJOvWxE0YPlQXKFW+7z0H+oyH7YlVv+ePlfumiQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 12:16:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "mpnz2lma8d"
+        },
+        {
+          "Name": "label",
+          "Value": "CVGenerateUI.bundle.scp.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-yvjRhJOvWxE0YPlQXKFW+7z0H+oyH7YlVv+ePlfumiQ="
+        }
+      ]
+    },
+    {
+      "Route": "CVGenerateUI.mpnz2lma8d.styles.css",
+      "AssetFile": "C:\\Users\\zeyne\\OneDrive\\Belgeler\\GitHub\\CVGenerate\\CVGenerateUI\\obj\\Debug\\net8.0\\scopedcss\\bundle\\CVGenerateUI.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1130"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yvjRhJOvWxE0YPlQXKFW+7z0H+oyH7YlVv+ePlfumiQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 12:16:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "mpnz2lma8d"
+        },
+        {
+          "Name": "label",
+          "Value": "CVGenerateUI.styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-yvjRhJOvWxE0YPlQXKFW+7z0H+oyH7YlVv+ePlfumiQ="
         }
       ]
     },
@@ -1450,7 +1746,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1134"
+          "Value": "1130"
         },
         {
           "Name": "Content-Type",
@@ -1458,11 +1754,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"ezafBqpz/IeDGMyLIds/gT2iueCqrjNPW+en8HjK7/0=\""
+          "Value": "\"yvjRhJOvWxE0YPlQXKFW+7z0H+oyH7YlVv+ePlfumiQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 30 Apr 2025 10:26:16 GMT"
+          "Value": "Wed, 30 Apr 2025 12:16:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1472,97 +1768,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-ezafBqpz/IeDGMyLIds/gT2iueCqrjNPW+en8HjK7/0="
-        }
-      ]
-    },
-    {
-      "Route": "CVGenerateUI.tejxltiwbm.bundle.scp.css",
-      "AssetFile": "C:\\Users\\zeyne\\OneDrive\\Belgeler\\GitHub\\CVGenerate\\CVGenerateUI\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\CVGenerateUI.bundle.scp.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1134"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"ezafBqpz/IeDGMyLIds/gT2iueCqrjNPW+en8HjK7/0=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 30 Apr 2025 10:26:16 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "tejxltiwbm"
-        },
-        {
-          "Name": "label",
-          "Value": "CVGenerateUI.bundle.scp.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-ezafBqpz/IeDGMyLIds/gT2iueCqrjNPW+en8HjK7/0="
-        }
-      ]
-    },
-    {
-      "Route": "CVGenerateUI.tejxltiwbm.styles.css",
-      "AssetFile": "C:\\Users\\zeyne\\OneDrive\\Belgeler\\GitHub\\CVGenerate\\CVGenerateUI\\obj\\Debug\\net8.0\\scopedcss\\bundle\\CVGenerateUI.styles.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1134"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"ezafBqpz/IeDGMyLIds/gT2iueCqrjNPW+en8HjK7/0=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 30 Apr 2025 10:26:16 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "tejxltiwbm"
-        },
-        {
-          "Name": "label",
-          "Value": "CVGenerateUI.styles.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-ezafBqpz/IeDGMyLIds/gT2iueCqrjNPW+en8HjK7/0="
+          "Value": "sha256-yvjRhJOvWxE0YPlQXKFW+7z0H+oyH7YlVv+ePlfumiQ="
         }
       ]
     },

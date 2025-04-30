@@ -13,10 +13,67 @@ html {
 }
 
 html {
-  position: relative;
-  min-height: 100%;
+    position: relative;
+    height: 100%;
+    overflow: hidden;
+}
+.nav-item + .nav-item {
+    margin-left: 20px; 
+}
+
+
+.navbar-brand {
+    font-size: 30px ;
+}
+.full-screen-wrapper {
+    height: 100vh; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #f8f9fa; 
 }
 
 body {
-  margin-bottom: 60px;
+    margin-bottom: 60px;
+    padding-left: 20%;
+    padding-right: 20%;
 }
+.custom-outline-button {
+    display: inline-block;
+    padding: 0.375rem 0.75rem;
+    border: 1px solid black;
+    border-radius: 30px !important;
+    background-color: transparent;
+    color: black;
+    text-decoration: none;
+    border-radius: 0.25rem;
+    transition: background-color 0.3s, color 0.3s;
+}
+
+    .custom-outline-button:hover {
+        background-color: black;
+        color: white !important;
+    }
+
+.custom-button {
+    padding: 20px 40px; 
+    font-size: 50px; 
+    border-radius: 30px;
+    text-decoration: none; 
+    color: black; 
+    background-color: transparent; 
+    border: 2px solid black; 
+    transition: background-color 0.3s, color 0.3s; 
+}
+
+    .custom-button:hover {
+        background-color: black; 
+        color: white; 
+    }
+.custom-footer {
+    width: 40%;
+    margin: 0 auto;
+    text-align: left;
+}
+
+

@@ -32,4 +32,4 @@ C:\Users\zeyne\OneDrive\Belgeler\GitHub\CVGenerate\CVGenerateUI\obj\Debug\net8.0
 C:\Users\zeyne\OneDrive\Belgeler\GitHub\CVGenerate\CVGenerateUI\obj\Debug\net8.0\CVGenerateUI.pdb
 C:\Users\zeyne\OneDrive\Belgeler\GitHub\CVGenerate\CVGenerateUI\obj\Debug\net8.0\CVGenerateUI.genruntimeconfig.cache
 C:\Users\zeyne\OneDrive\Belgeler\GitHub\CVGenerate\CVGenerateUI\obj\Debug\net8.0\ref\CVGenerateUI.dll
-C:\Users\zeyne\OneDrive\Belgeler\GitHub\CVGenerate\CVGenerateUI\obj\Debug\net8.0\scopedcss\Views\Shared\_HomeLayout.cshtml.rz.scp.css
+C:\Users\zeyne\OneDrive\Belgeler\GitHub\CVGenerate\CVGenerateUI\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css

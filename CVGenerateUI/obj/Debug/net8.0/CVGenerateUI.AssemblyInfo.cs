@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CVGenerateUI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ff3c33558412b78396f759d509618531b2bd4d5d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+36bcbbc69b5c4fabca0fc0cbe83a2727016453e5")]
 [assembly: System.Reflection.AssemblyProductAttribute("CVGenerateUI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CVGenerateUI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

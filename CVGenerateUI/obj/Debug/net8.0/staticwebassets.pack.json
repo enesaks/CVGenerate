@@ -2,7 +2,15 @@
   "Files": [
     {
       "Id": "C:\\Users\\zeyne\\OneDrive\\Belgeler\\GitHub\\CVGenerate\\CVGenerateUI\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\CVGenerateUI.bundle.scp.css",
-      "PackagePath": "staticwebassets\\CVGenerateUI.tejxltiwbm.bundle.scp.css"
+      "PackagePath": "staticwebassets\\CVGenerateUI.mpnz2lma8d.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\zeyne\\OneDrive\\Belgeler\\GitHub\\CVGenerate\\CVGenerateUI\\wwwroot\\css\\StyleSheet.css",
+      "PackagePath": "staticwebassets\\css\\StyleSheet.css"
+    },
+    {
+      "Id": "C:\\Users\\zeyne\\OneDrive\\Belgeler\\GitHub\\CVGenerate\\CVGenerateUI\\wwwroot\\css\\login.css",
+      "PackagePath": "staticwebassets\\css\\login.css"
     },
     {
       "Id": "C:\\Users\\zeyne\\OneDrive\\Belgeler\\GitHub\\CVGenerate\\CVGenerateUI\\wwwroot\\css\\site.css",

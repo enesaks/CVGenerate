@@ -1,0 +1,31 @@
+﻿@{
+    ViewData["Title"] = "Login Page";
+    Layout = "/Views/Shared/_Layout.cshtml";
+    
+}
+
+<div class="container-fluid d-flex justify-content-center align-items-center vh-100">
+    <div class="login-wrapper text-center p-5 rounded shadow" style="width: 60%; background-color: white;">
+        <h2 class="mb-4">Giriş Yap</h2>
+        <form>
+            <div class="form-group mb-3 text-start">
+                <label for="email">E-mail</label>
+                <input type="email" class="form-control" id="email" placeholder="E-mail adresinizi girin">
+            </div>
+            <div class="form-group mb-4 text-start">
+                <label for="password">Şifre</label>
+                <input type="password" class="form-control" id="password" placeholder="Şifrenizi girin">
+            </div>
+            <button type="submit" class="btn btn-primary px-5">Giriş Yap</button>
+        </form>
+    </div>
+</div>
+
+
+
+
+
+
+<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.bundle.min.js"></script>
