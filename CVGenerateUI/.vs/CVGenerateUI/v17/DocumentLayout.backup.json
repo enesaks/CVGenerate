@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\zeyne\\OneDrive\\Belgeler\\GitHub\\CVGenerate\\CVGenerateUI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E179D6F0-6736-4728-8743-C8E6EF70B295}|CVGenerateUI.csproj|c:\\users\\zeyne\\onedrive\\belgeler\\github\\cvgenerate\\cvgenerateui\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E179D6F0-6736-4728-8743-C8E6EF70B295}|CVGenerateUI.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E179D6F0-6736-4728-8743-C8E6EF70B295}|CVGenerateUI.csproj|c:\\users\\zeyne\\onedrive\\belgeler\\github\\cvgenerate\\cvgenerateui\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E179D6F0-6736-4728-8743-C8E6EF70B295}|CVGenerateUI.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\zeyne\\OneDrive\\Belgeler\\GitHub\\CVGenerate\\CVGenerateUI\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\zeyne\\OneDrive\\Belgeler\\GitHub\\CVGenerate\\CVGenerateUI\\Views\\_ViewImports.cshtml*",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-30T10:29:06.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\zeyne\\OneDrive\\Belgeler\\GitHub\\CVGenerate\\CVGenerateUI\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\zeyne\\OneDrive\\Belgeler\\GitHub\\CVGenerate\\CVGenerateUI\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T10:27:50.373Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
