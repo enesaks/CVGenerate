@@ -1,3 +1,3 @@
 ﻿<Project>
-  <Import Project="..\build\CVGenerateUI.props" />
+  <Import Project="../build/CVGenerateUI.props" />
 </Project>
