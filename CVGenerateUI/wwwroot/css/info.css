@@ -1,0 +1,33 @@
+body {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+main {
+    flex: 1;
+}
+
+.left-menu {
+    position: fixed;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 200px;
+}
+
+.content-area {
+    margin-left: 220px;
+    padding: 40px;
+}
+
+.custom-footer {
+    text-align: center;
+    padding: 1rem;
+    background-color: #f8f9fa;
+    margin-top: auto;
+}
+
+.scrollspy-example {
+    max-height: 80vh;
+    overflow-y: auto;
+}

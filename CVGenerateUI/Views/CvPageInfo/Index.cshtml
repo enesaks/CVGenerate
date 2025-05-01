@@ -1,0 +1,71 @@
+﻿@{
+    ViewData["Title"] = "Kişisel Bilgiler";
+    Layout = "/Views/Shared/_Layout.cshtml";
+}
+
+<div class="container-fluid d-flex justify-content-center align-items-center min-vh-100 position-relative"
+    style="top: -50px;">
+    <div class="login-wrapper text-center p-5 rounded shadow" style="width: 70%; background-color: white;">
+        <h2 class="mb-4">Kişisel Bilgiler</h2>
+        <form enctype="multipart/form-data">
+            <div class="row">
+                <!-- Fotoğraf Alanı -->
+                <div class="col-md-4 d-flex flex-column align-items-center justify-content-start mb-4">
+                    <img id="previewImage" src="https://via.placeholder.com/150" class="img-thumbnail mb-3"
+                        alt="Fotoğraf Önizleme" style="width: 200px; height: 200px; object-fit: cover;">
+                    <input type="file" class="form-control" id="photo" name="photo" accept="image/*"
+                        onchange="previewFile(this);">
+                </div>
+
+                <!-- Bilgi Alanları -->
+                <div class="col-md-8">
+                    <div class="form-group mb-3 text-start">
+                        <label for="name">Ad Soyad</label>
+                        <input type="text" class="form-control" id="name" placeholder="Adınızı ve soyadınızı girin">
+                    </div>
+                    <div class="form-group mb-3 text-start">
+                        <label for="email">E-mail</label>
+                        <input type="email" class="form-control" id="email" placeholder="E-mail adresinizi girin">
+                    </div>
+                    <div class="form-group mb-3 text-start">
+                        <label for="telNo">Telefon Numarası</label>
+                        <input type="text" class="form-control" id="number" placeholder="Telefon numarasınızı girin">
+                    </div>
+                    <div class="form-group mb-3 text-start">
+                        <label for="adress">Adres</label>
+                        <input type="text" class="form-control" id="adress" placeholder="Adresinizi girin">
+                    </div>
+                    <div class="form-group mb-3 text-start">
+                        <label for="dtarihi">Doğum Tarihi</label>
+                        <input type="date" class="form-control" id="dtarihi" placeholder="Doğum tarihinizi girin">
+                    </div>
+                    <div class="form-group mb-4 text-start">
+                        <label for="webSite">Web Sitesi</label>
+                        <input type="text" class="form-control" id="webSite" placeholder="Web Sitenizi girin">
+                    </div>
+                </div>
+            </div>
+
+            <button type="submit" asp-area="" asp-controller="CvPageGeneralInfo" asp-action="Index" class=" btn btn-dark
+                custom-btn px-5 mt-3">İlerle</button>
+        </form>
+    </div>
+</div>
+
+<!-- Fotoğraf önizleme scripti -->
+<script>
+    function previewFile(input) {
+        const file = input.files[0];
+        const reader = new FileReader();
+        reader.onload = function (e) {
+            document.getElementById('previewImage').src = e.target.result;
+        };
+        if (file) {
+            reader.readAsDataURL(file);
+        }
+    }
+</script>
+
+<!-- Bootstrap JS -->
+<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
