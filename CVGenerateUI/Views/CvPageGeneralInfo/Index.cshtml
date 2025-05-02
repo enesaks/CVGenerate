@@ -5,6 +5,7 @@
 
 
 <div class="accordion" id="accordionPanelsStayOpenExample" aria-live="polite">
+
     <div class="accordion-item">
         <h2 class="accordion-header">
             <button class="accordion-button" type="button" data-bs-toggle="collapse"
@@ -24,61 +25,348 @@
             </div>
         </div>
     </div>
+    <br>
+    <br>
     <div class="accordion-item">
         <h2 class="accordion-header">
             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                 data-bs-target="#panelsStayOpen-collapseTwo" aria-expanded="false"
                 aria-controls="panelsStayOpen-collapseTwo">
-                Eğitim Geçmişi
+                İş Deneyimi
             </button>
         </h2>
         <div id="panelsStayOpen-collapseTwo" class="accordion-collapse collapse">
             <div class="accordion-body">
                 <form>
-                    <div class="form-group mb-3 text-start">
-                        <input type="text" class="form-control" id="description" placeholder="Üniversite Giriniz..">
+                    <label for="title">İş Unvanı</label>
+                    <input type="text" id="title" placeholder="örn. Satış Yöneticisi" />
+
+                    <div class="row">
+                        <div>
+                            <label for="city">Şehir/İlçe</label>
+                            <input type="text" id="city" placeholder="örn. İstanbul" />
+                        </div>
+                        <div>
+                            <label for="company">İşveren</label>
+                            <input type="text" id="company" placeholder="örn. PwC" />
+                        </div>
                     </div>
+
+                    <div class="row">
+                        <div>
+                            <label>Başlangıç Tarihi</label>
+                            <select>
+                                <option>Yalnızca yılı göster</option>
+                            </select>
+                            <select>
+                                <option>2018</option>
+                            </select>
+                        </div>
+                        <div>
+                            <label>Bitiş Tarihi</label>
+                            <select>
+                                <option>Şubat</option>
+                            </select>
+                            <select>
+                                <option>2018</option>
+                            </select>
+                        </div>
+                    </div>
+
+                    <label for="description">Açıklama</label>
+                    <textarea id="description" rows="5"></textarea>
+
+                    <div class="buttons">
+                        <button type="button">🗑️ Sil</button>
+                        <button type="submit">💾 Kaydet</button>
+                    </div>
+
+                    <div class="add-another">➕ Bir başka iş deneyimi ekle</div>
                 </form>
             </div>
         </div>
     </div>
+    <br>
+    <br>
     <div class="accordion-item">
         <h2 class="accordion-header">
             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                 data-bs-target="#panelsStayOpen-collapseThree" aria-expanded="false"
                 aria-controls="panelsStayOpen-collapseThree">
-                İş Geçmişi
+                Eğitim ve Nitelikler
             </button>
         </h2>
         <div id="panelsStayOpen-collapseThree" class="accordion-collapse collapse">
             <div class="accordion-body">
                 <form>
-                    <div class="form-group mb-3 text-start">
-                        <input type="text" class="form-control" id="description" placeholder="İş giriniz">
+                    <label for="title">Derece</label>
+                    <input type="text" id="title" placeholder="örn. Fen Lisesi Diploması" />
+
+                    <div class="row">
+                        <div>
+                            <label for="city">Şehir/İlçe</label>
+                            <input type="text" id="city" placeholder="örn. İstanbul" />
+                        </div>
+                        <div>
+                            <label for="company">Okul</label>
+                            <input type="text" id="company" placeholder="örn. Bolu Abant İzzet Baysal Üniversitesi" />
+                        </div>
                     </div>
+
+                    <div class="row">
+                        <div>
+                            <label>Başlangıç Tarihi</label>
+                            <select>
+                                <option>Yalnızca yılı göster</option>
+                            </select>
+                            <select>
+                                <option>2018</option>
+                            </select>
+                        </div>
+                        <div>
+                            <label>Bitiş Tarihi</label>
+                            <select>
+                                <option>Şubat</option>
+                            </select>
+                            <select>
+                                <option>2018</option>
+                            </select>
+                        </div>
+                    </div>
+
+                    <label for="description">Tanım</label>
+                    <textarea id="description" rows="5"></textarea>
+
+                    <div class="buttons">
+                        <button type="button">🗑️ Sil</button>
+                        <button type="submit">💾 Kaydet</button>
+                    </div>
+
+                    <div class="add-another">➕ Bir başka Eğitim ekle</div>
                 </form>
             </div>
         </div>
     </div>
+    <br>
+    <br>
     <div class="accordion-item">
         <h2 class="accordion-header">
             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                 data-bs-target="#panelsStayOpen-collapseFour" aria-expanded="false"
                 aria-controls="panelsStayOpen-collapseFour">
-                Sertifikalar
+                Hobi
             </button>
         </h2>
         <div id="panelsStayOpen-collapseFour" class="accordion-collapse collapse">
             <div class="accordion-body">
                 <form>
-                    <div class="form-group mb-3 text-start">
-                        <input type="text" class="form-control" id="description" placeholder="İş giriniz">
+                    <div class="row">
+                        <div>
+                            <label for="company">Hobi</label>
+                            <input type="text" id="company" placeholder="Tenis" />
+                        </div>
                     </div>
+
+
+                    <div class="buttons">
+                        <button type="button">🗑️ Sil</button>
+                        <button type="submit">💾 Kaydet</button>
+                    </div>
+
+                    <div class="add-another">➕ Bir başka Hobi ekle</div>
                 </form>
             </div>
         </div>
     </div>
+    <br>
+    <br>
+    <div class="accordion-item">
+        <h2 class="accordion-header">
+            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                data-bs-target="#panelsStayOpen-collapseFive" aria-expanded="false"
+                aria-controls="panelsStayOpen-collapseFive">
+                Referanslar
+            </button>
+        </h2>
+        <div id="panelsStayOpen-collapseFive" class="accordion-collapse collapse">
+            <div class="accordion-body">
+                <form>
+
+
+                    <div class="row">
+                        <div>
+                            <label for="title">Şirket Adı</label>
+                            <input type="text" id="title" placeholder="" />
+                        </div>
+                        <div>
+                            <label for="city">İletişim Kişisi</label>
+                            <input type="text" id="city" placeholder="" />
+                        </div>
+                    </div>
+
+                    <div class="row">
+                        <div>
+                            <label for="title">Telefon Numarası</label>
+                            <input type="text" id="title" placeholder="" />
+                        </div>
+                        <div>
+                            <label for="city">E-Posta Adresi</label>
+                            <input type="text" id="city" placeholder="" />
+                        </div>
+
+                    </div>
+
+                    <div class="buttons">
+                        <button type="button">🗑️ Sil</button>
+                        <button type="submit">💾 Kaydet</button>
+                    </div>
+
+                    <div class="add-another">➕ Bir başka referans ekle</div>
+                </form>
+            </div>
+        </div>
+    </div>
+    <br>
+    <br>
+    <div class="accordion-item">
+        <h2 class="accordion-header">
+            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                data-bs-target="#panelsStayOpen-collapseSix" aria-expanded="false"
+                aria-controls="panelsStayOpen-collapseSix">
+                Beceriler
+            </button>
+        </h2>
+        <div id="panelsStayOpen-collapseSix" class="accordion-collapse collapse">
+            <div class="accordion-body">
+                <form>
+                    <div class="row">
+                        <div>
+                            <label for="title">Beceri</label>
+                            <input type="text" id="title" placeholder="" />
+                        </div>
+                        <div>
+                            <label>Seviye</label>
+                            <select>
+                                <option>Uzman</option>
+                                <option>Deneyimli</option>
+                            </select>
+                        </div>
+                    </div>
+
+                    <div class="buttons">
+                        <button type="button">🗑️ Sil</button>
+                        <button type="submit">💾 Kaydet</button>
+                    </div>
+
+                    <div class="add-another">➕ Bir başka beceri ekle</div>
+                </form>
+            </div>
+        </div>
+    </div>
+    <br>
+    <br>
+    <div class="accordion-item">
+        <h2 class="accordion-header">
+
+        </h2><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+            data-bs-target="#panelsStayOpen-collapseSeven" aria-expanded="false"
+            aria-controls="panelsStayOpen-collapseSeven">
+            Diller
+        </button>
+        <div id="panelsStayOpen-collapseSeven" class="accordion-collapse collapse">
+            <div class="accordion-body">
+                <form>
+                    <div class="row">
+                        <div>
+                            <label for="title">Dil</label>
+                            <input type="text" id="title" placeholder="" />
+                        </div>
+                        <div>
+                            <label>Seviye</label>
+                            <select>
+                                <option>Ana Dil</option>
+                                <option>B1</option>
+                            </select>
+                        </div>
+                    </div>
+
+                    <div class="buttons">
+                        <button type="button">🗑️ Sil</button>
+                        <button type="submit">💾 Kaydet</button>
+                    </div>
+
+                    <div class="add-another">➕ Bir başka dil ekle</div>
+                </form>
+            </div>
+        </div>
+    </div>
+    <br>
+    <br>
+    <div class="accordion-item">
+        <h2 class="accordion-header">
+
+        </h2><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+            data-bs-target="#panelsStayOpen-collapseEight" aria-expanded="false"
+            aria-controls="panelsStayOpen-collapseEight">
+            Kurslar
+        </button>
+        <div id="panelsStayOpen-collapseEight" class="accordion-collapse collapse">
+            <div class="accordion-body">
+                <form>
+                    <div class="row">
+                        <div>
+                            <label for="city">Kurs</label>
+                            <input type="text" id="city" placeholder="örn. Finans 101" />
+                        </div>
+                        <div>
+                            <label for="company">Kurum</label>
+                            <input type="text" id="company" placeholder="örn. İstanbul Üniversitesi" />
+                        </div>
+                    </div>
+
+                    <div class="row">
+                        <div>
+                            <label>Başlangıç Tarihi</label>
+                            <select>
+                                <option>Yalnızca yılı göster</option>
+                            </select>
+                            <select>
+                                <option>2018</option>
+                            </select>
+                        </div>
+                        <div>
+                            <label>Bitiş Tarihi</label>
+                            <select>
+                                <option>Şubat</option>
+                            </select>
+                            <select>
+                                <option>2018</option>
+                            </select>
+                        </div>
+                    </div>
+
+                    <label for="description">Açıklama</label>
+                    <textarea id="description" rows="5"></textarea>
+
+                    <div class="buttons">
+                        <button type="button">🗑️ Sil</button>
+                        <button type="submit">💾 Kaydet</button>
+                    </div>
+
+                    <div class="add-another">➕ Bir başka kurs ekle</div>
+                </form>
+            </div>
+        </div>
+    </div>
+    <br>
+    <br>
+
+
 </div>
+</div>
+
+<a class="nav-link custom-outline-button " asp-area="" asp-controller="TemplateSelection" asp-action="Index">Şablon
+    Seç</a>
 
 <!-- Sortable.js CDN -->
 <script src="https://cdnjs.cloudflare.com/ajax/libs/Sortable/1.14.0/Sortable.min.js"></script>
