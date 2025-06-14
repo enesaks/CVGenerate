@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/CVGenerate.API.props" />
+</Project>

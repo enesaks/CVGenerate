@@ -1,0 +1,12 @@
+/Users/enes/Documents/GitHub/CVGenerate/CVGenerate/src/CVGenerate.Core/bin/Debug/net8.0/CVGenerate.Core.deps.json
+/Users/enes/Documents/GitHub/CVGenerate/CVGenerate/src/CVGenerate.Core/bin/Debug/net8.0/CVGenerate.Core.dll
+/Users/enes/Documents/GitHub/CVGenerate/CVGenerate/src/CVGenerate.Core/bin/Debug/net8.0/CVGenerate.Core.pdb
+/Users/enes/Documents/GitHub/CVGenerate/CVGenerate/src/CVGenerate.Core/obj/Debug/net8.0/CVGenerate.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/enes/Documents/GitHub/CVGenerate/CVGenerate/src/CVGenerate.Core/obj/Debug/net8.0/CVGenerate.Core.AssemblyInfoInputs.cache
+/Users/enes/Documents/GitHub/CVGenerate/CVGenerate/src/CVGenerate.Core/obj/Debug/net8.0/CVGenerate.Core.AssemblyInfo.cs
+/Users/enes/Documents/GitHub/CVGenerate/CVGenerate/src/CVGenerate.Core/obj/Debug/net8.0/CVGenerate.Core.csproj.CoreCompileInputs.cache
+/Users/enes/Documents/GitHub/CVGenerate/CVGenerate/src/CVGenerate.Core/obj/Debug/net8.0/CVGenerate.Core.sourcelink.json
+/Users/enes/Documents/GitHub/CVGenerate/CVGenerate/src/CVGenerate.Core/obj/Debug/net8.0/CVGenerate.Core.dll
+/Users/enes/Documents/GitHub/CVGenerate/CVGenerate/src/CVGenerate.Core/obj/Debug/net8.0/refint/CVGenerate.Core.dll
+/Users/enes/Documents/GitHub/CVGenerate/CVGenerate/src/CVGenerate.Core/obj/Debug/net8.0/CVGenerate.Core.pdb
+/Users/enes/Documents/GitHub/CVGenerate/CVGenerate/src/CVGenerate.Core/obj/Debug/net8.0/ref/CVGenerate.Core.dll

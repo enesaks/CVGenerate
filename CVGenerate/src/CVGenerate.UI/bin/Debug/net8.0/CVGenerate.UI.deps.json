@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "CVGenerate.UI/1.0.0": {
+        "dependencies": {
+          "CVGenerate.Shared": "1.0.0"
+        },
+        "runtime": {
+          "CVGenerate.UI.dll": {}
+        }
+      },
+      "CVGenerate.Shared/1.0.0": {
+        "runtime": {
+          "CVGenerate.Shared.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CVGenerate.UI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CVGenerate.Shared/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

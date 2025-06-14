@@ -1,0 +1,12 @@
+/Users/enes/Documents/GitHub/CVGenerate/CVGenerate/src/CVGenerate.Shared/bin/Debug/net8.0/CVGenerate.Shared.deps.json
+/Users/enes/Documents/GitHub/CVGenerate/CVGenerate/src/CVGenerate.Shared/bin/Debug/net8.0/CVGenerate.Shared.dll
+/Users/enes/Documents/GitHub/CVGenerate/CVGenerate/src/CVGenerate.Shared/bin/Debug/net8.0/CVGenerate.Shared.pdb
+/Users/enes/Documents/GitHub/CVGenerate/CVGenerate/src/CVGenerate.Shared/obj/Debug/net8.0/CVGenerate.Shared.GeneratedMSBuildEditorConfig.editorconfig
+/Users/enes/Documents/GitHub/CVGenerate/CVGenerate/src/CVGenerate.Shared/obj/Debug/net8.0/CVGenerate.Shared.AssemblyInfoInputs.cache
+/Users/enes/Documents/GitHub/CVGenerate/CVGenerate/src/CVGenerate.Shared/obj/Debug/net8.0/CVGenerate.Shared.AssemblyInfo.cs
+/Users/enes/Documents/GitHub/CVGenerate/CVGenerate/src/CVGenerate.Shared/obj/Debug/net8.0/CVGenerate.Shared.csproj.CoreCompileInputs.cache
+/Users/enes/Documents/GitHub/CVGenerate/CVGenerate/src/CVGenerate.Shared/obj/Debug/net8.0/CVGenerate.Shared.sourcelink.json
+/Users/enes/Documents/GitHub/CVGenerate/CVGenerate/src/CVGenerate.Shared/obj/Debug/net8.0/CVGenerate.Shared.dll
+/Users/enes/Documents/GitHub/CVGenerate/CVGenerate/src/CVGenerate.Shared/obj/Debug/net8.0/refint/CVGenerate.Shared.dll
+/Users/enes/Documents/GitHub/CVGenerate/CVGenerate/src/CVGenerate.Shared/obj/Debug/net8.0/CVGenerate.Shared.pdb
+/Users/enes/Documents/GitHub/CVGenerate/CVGenerate/src/CVGenerate.Shared/obj/Debug/net8.0/ref/CVGenerate.Shared.dll
